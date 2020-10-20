@@ -1,0 +1,27 @@
+
+body {
+    background: url(/img/back.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+  }
+  
+  .error{
+         color:red;
+         font-weight:bold;
+            }
+            
+  .errortype{
+         background-color: red;
+            }
+            
+  #fixed-bottom {      
+            position: fixed; 
+            padding: 10px 10px 0px 10px; 
+            bottom: 0; 
+            width: 100%;             
+            height: 40px; 
+            background: grey;   
+       }
+    
